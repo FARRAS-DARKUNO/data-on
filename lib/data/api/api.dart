@@ -1,0 +1,1 @@
+const baseUrl = "http://universities.hipolabs.com/search?country=Indonesia";
